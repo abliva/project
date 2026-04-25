@@ -1,0 +1,9 @@
+ultralytics>=8.3.0
+opencv-python>=4.10.0
+torch>=2.5.0
+torchvision>=0.20.0
+Pillow>=11.0.0
+numpy>=2.0.0
+pandas>=2.2.0
+matplotlib>=3.9.0
+有些文件是不需要的包
