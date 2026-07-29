@@ -1,0 +1,23 @@
+# AI智能助手依赖包
+# 大模型接口
+openai>=1.0.0
+httpx>=0.25.0
+
+# 数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 工具库
+requests>=2.31.0
+python-dateutil>=2.8.0
+
+# 调度与异步
+apscheduler>=3.10.0
+asyncio-extra>=0.3.0
+
+# 配置管理
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# 安全相关
+cryptography>=41.0.0

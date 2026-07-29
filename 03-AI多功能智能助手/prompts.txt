@@ -1,0 +1,157 @@
+# 文心一言 AI 绘图提示词集合
+# 
+# 本文件包含用于生成AI智能助手相关图片的提示词
+# 适用于文心一言、Midjourney、DALL-E等AI绘图工具
+
+# ══════════════════════════════════════════════
+# 提示词 1: AI智能助手对话界面
+# ══════════════════════════════════════════════
+
+[PROMPT_1]
+标题: AI智能助手对话界面
+
+英文提示词:
+A modern, sleek AI chatbot interface design, featuring a clean conversation window with message bubbles, user avatar on the left side showing a friendly robot face with glowing blue eyes, assistant avatar on the right with a warm smile and digital aura. The background shows a subtle gradient from deep purple to cyan with floating data particles and neural network patterns. Include typing indicator animation dots, timestamp labels, and a minimalist input bar at the bottom. Style: futuristic UI/UX design, glassmorphism effects, soft shadows, high-tech aesthetic, 4K resolution, professional product mockup style
+
+中文描述:
+一个现代化的AI聊天机器人界面设计，展示简洁的对话窗口，左侧是用户头像（显示友好的机器人和发光的蓝色眼睛），右侧是助手头像（温暖的微笑和数字光环）。背景是从深紫色到青色的渐变，带有浮动数据粒子和神经网络图案。包括打字指示器动画点、时间戳标签和底部极简输入栏。风格：未来主义UI/UX设计，玻璃拟态效果，柔和阴影，高科技美学，4K分辨率，专业产品模型风格
+
+使用场景:
+- 产品宣传图
+- 功能介绍配图
+- 界面设计参考
+[/PROMPT_1]
+
+# ══════════════════════════════════════════════
+# 提示词 2: 任务规划流程图
+# ══════════════════════════════════════════════
+
+[PROMPT_2]
+标题: 任务规划流程图
+
+英文提示词:
+An elegant task planning flowchart diagram for an AI agent system, illustrated in a modern infographic style. Central node labeled "User Input" connects to "Intent Recognition" (with brain icon), which branches to four colorful paths: "Info Query" (blue, search icon), "Text Generation" (green, pen icon), "Data Analysis" (orange, chart icon), and "Schedule Management" (purple, calendar icon). Each path shows sub-steps connected by smooth curved arrows. Background is clean white with subtle grid pattern. Use soft pastel colors, rounded rectangles, drop shadows, and connecting lines with gradient colors. Professional business presentation style, high clarity, vector-like quality
+
+中文描述:
+一个优雅的AI Agent系统任务规划流程图，采用现代信息图表风格。中心节点"用户输入"连接到"意图识别"（带大脑图标），然后分支到四条彩色路径："信息查询"（蓝色，搜索图标）、"文案生成"（绿色，笔图标）、"数据分析"（橙色，图表图标）、"日程管理"（紫色，日历图标）。每条路径显示由平滑曲线箭头连接的子步骤。背景是干净的白色，带有微妙的网格图案。使用柔和的粉彩颜色、圆角矩形、阴影和渐变色连接线。专业商务演示风格，高清晰度，矢量质量
+
+使用场景:
+- 技术文档插图
+- 工作原理说明
+- 架构设计展示
+[/PROMPT_2]
+
+# ══════════════════════════════════════════════
+# 提示词 3: 多模态AI Agent架构图
+# ══════════════════════════════════════════════
+
+[PROMPT_3]
+标题: 多模态AI Agent架构图
+
+英文提示词:
+A comprehensive multi-modal AI Agent architecture diagram, showcasing a layered system design. Bottom layer shows "Foundation Models" (LLM, Vision Model, Speech Model) represented as solid blocks with tech icons. Middle layer displays "Core Components": Chat Manager (conversation bubbles), Task Planner (puzzle pieces), Tool Executor (wrench and gears), Safety Filter (shield icon). Top layer illustrates "Application Interfaces" with user-friendly icons for text, voice, image, and data inputs. Connect all layers with bidirectional arrows showing data flow. Color scheme: deep navy base, teal accents, golden highlights. Style: technical blueprint aesthetic, isometric 3D perspective, glowing connection lines, futuristic server room ambiance, ultra-detailed, 8K quality
+
+中文描述:
+一个全面的多模态AI Agent架构图，展示分层系统设计。底层显示"基础模型"（LLM、视觉模型、语音模型），用带有技术图标的实体块表示。中间层展示"核心组件"：对话管理器（对话气泡）、任务规划器（拼图块）、工具执行器（扳手和齿轮）、安全过滤器（盾牌图标）。顶层展示"应用界面"，带有文本、语音、图像和数据输入的用户友好图标。所有层之间用双向箭头显示数据流连接。配色方案：深海军蓝底色，青色点缀，金色高光。风格：技术蓝图美学，等距3D视角，发光连接线，未来感服务器室氛围，超详细，8K质量
+
+使用场景:
+- 技术白皮书配图
+- 系统架构说明
+- 学术论文插图
+- 产品技术文档
+[/PROMPT_3]
+
+# ══════════════════════════════════════════════
+# 提示词 4: 智能日程管理面板
+# ══════════════════════════════════════════════
+
+[PROMPT_4]
+标题: 智能日程管理面板
+
+英文提示词:
+A sophisticated smart schedule management dashboard interface, designed for a productivity app. Main area features a clean weekly calendar view with today highlighted in vibrant coral color. Left sidebar shows a mini monthly calendar and categorized task list with color-coded tags (work-blue, personal-green, health-orange, study-purple). Right panel displays upcoming events timeline with elegant cards showing event title, time, location pin icon, and priority stars. Top navigation includes search bar, notification bell with badge count, and user profile avatar. Subtle animations show a reminder popup notification. Design style: Apple-inspired minimalism, SF Pro font family, smooth gradients, Frosted Glass effect on panels, soft shadows, light mode theme with accent colors. Clean, organized, intuitive layout. High-fidelity UI mockup
+
+中文描述:
+一个精致智能的日程管理仪表板界面，专为生产力应用设计。主区域展示干净的周视图日历，今天用鲜艳的珊瑚色突出显示。左侧边栏显示迷你月历和分类任务列表，带有彩色编码标签（工作-蓝色、个人-绿色、健康-橙色、学习-紫色）。右侧面板显示即将到来的事件时间轴，带有精美的卡片，显示事件标题、时间、位置图钉图标和优先级星标。顶部导航包括搜索栏、带徽章计数的通知铃铛和用户个人资料头像。微妙动画显示提醒弹窗通知。设计风格：Apple灵感极简主义，SF Pro字体系列，平滑渐变，面板上的磨砂玻璃效果，柔和阴影，浅色模式主题与强调色。干净、组织良好、直观的布局。高保真UI模型
+
+使用场景:
+- 应用界面展示
+- 功能特性介绍
+- 设计稿参考
+- 营销素材
+[/PROMPT_4]
+
+# ══════════════════════════════════════════════
+# 提示词 5: AI工具调用示意图
+# ══════════════════════════════════════════════
+
+[PROMPT_5]
+标题: AI工具调用示意图
+
+英文提示词:
+A dynamic visualization of AI tool invocation process, presented as an animated-style illustration. Center shows a glowing AI brain core with neural network patterns pulsing with energy. From the core, multiple colored beams of light extend outward to surrounding tool modules arranged in a circular pattern: Weather API (cloud and sun symbol, blue beam), Search Engine (magnifying glass, green beam), Text Generator (quill pen, orange beam), Data Analyzer (bar chart, purple beam), Calendar (calendar grid, pink beam). Each tool module shows a small preview of its output (weather icons, search results, document, graphs, schedule). Data packets flow along the beams as glowing orbs. The whole composition has a cybernetic, holographic feel with dark background, neon glow effects, and circuit board traces. Futuristic technology concept art, cinematic lighting, highly detailed, 8K resolution
+
+中文描述:
+AI工具调用过程的动态可视化，以动画风格的插图呈现。中央显示一个发光的AI大脑核心，神经网络图案脉动着能量。从核心向外延伸多条彩色光束到周围按圆形排列的工具模块：天气API（云和太阳符号，蓝色光束）、搜索引擎（放大镜，绿色光束）、文本生成器（羽毛笔，橙色光束）、数据分析器（柱状图，紫色光束）、日历（日历网格，粉色光束）。每个工具模块显示其输出的小预览（天气图标、搜索结果、文档、图表、日程）。数据包作为发光球体沿光束流动。整个构图具有控制论、全息感，深色背景，霓虹发光效果和电路板痕迹。未来主义科技概念艺术，电影级灯光照明，超详细，8K分辨率
+
+使用场景:
+- 技术概念解释
+- 系统工作原理展示
+- 开发者文档配图
+- 演示文稿视觉元素
+[/PROMPT_5]
+
+# ══════════════════════════════════════════════
+# 额外提示词: AI助手完整生态系统
+# ══════════════════════════════════════════════
+
+[BONUS_PROMPT]
+标题: AI智能助手完整生态系统全景图
+
+英文提示词:
+A breathtaking panoramic view of a complete AI intelligent assistant ecosystem, rendered in a stunning isometric 3D illustration style. The scene depicts a futuristic digital city where each building represents a different capability: a towering LLM skyscraper emitting knowledge beams, a weather station dome with real-time data streams, a creative writing studio with floating text particles, a data analysis observatory with holographic charts, and a scheduling tower with calendar blocks stacking automatically. Flying between buildings are messenger drones carrying data packets. In the center plaza, users interact with friendly AI avatars through holographic interfaces. Sky transitions from dawn orange to digital blue. Cyberpunk meets utopian future aesthetic, incredibly detailed, volumetric lighting, ray-traced reflections, 8K masterpiece quality, suitable for cover art or promotional material
+
+中文描述:
+一个壮观的AI智能助手完整生态系统的全景视图，采用令人惊叹的等距3D插画风格呈现。场景描绘了一个未来数字城市，每座建筑代表不同的能力：一座高耸的LLM摩天大楼发射知识光束，一个气象站穹顶有实时数据流，一个创意写作工作室漂浮着文本粒子，一个数据分析天文台有全息图表，以及一个调度塔自动堆叠日历块。在建筑间飞行的是携带数据包的信使无人机。在中央广场，用户通过全息界面与友好的AI化身互动。天空从黎明橙色过渡到数字蓝色。赛博朋克遇上乌托邦未来的美学，令人难以置信的细节，体积光照，光线追踪反射，8K杰作质量，适合封面或宣传材料
+
+使用场景:
+- 项目封面大图
+- 宣传海报
+- 品牌形象展示
+- 投资人演示材料
+[/BONUS_PROMPT]
+
+# ══════════════════════════════════════════════
+# 使用建议
+# ══════════════════════════════════════════════
+
+## 最佳实践
+
+### 图片生成平台推荐：
+1. **文心一言** - 百度出品，中文理解优秀
+2. **Midjourney** - 艺术性强，风格多样
+3. **DALL-E 3** - OpenAI出品，指令遵循好
+4. **Stable Diffusion** - 开源可控，适合定制
+
+### 提示词优化技巧：
+- ✅ 使用具体、详细的描述
+- ✅ 明确指定风格和质量要求
+- ✅ 包含色彩、光影、构图信息
+- ✅ 说明使用场景和目标受众
+- ❌ 避免过于抽象或模糊的表达
+- ❌ 不要堆砌过多冲突的风格关键词
+
+### 后期处理建议：
+- 可根据需要调整尺寸比例
+- 添加品牌Logo和文字标注
+- 统一色调以保持系列一致性
+- 导出为WebP/PNG格式以优化加载速度
+
+## 版权声明
+本提示词集合仅供学习和项目使用
+生成的图片版权归使用者所有
+请遵守各AI绘图平台的使用条款
+
+# ══════════════════════════════════════════════
+# 文件结束 - 共6个高质量图片提示词
+# ══════════════════════════════════════════════

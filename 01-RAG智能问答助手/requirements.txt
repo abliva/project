@@ -1,0 +1,38 @@
+# RAG智能问答助手依赖包列表
+# 基于DeepSeek API + LangChain + RAG + Flask技术栈
+
+# Web框架
+Flask==3.0.0                # 轻量级Web框架，提供RESTful API服务
+flask-cors==4.0.0           # CORS跨域支持
+
+# LangChain核心组件
+langchain==0.1.0            # LangChain核心库
+langchain-community==0.0.10 # LangChain社区集成
+langchain-openai==0.0.2     # OpenAI兼容接口（用于DeepSeek）
+
+# 文档处理
+PyPDF2==3.0.1               # PDF文件解析
+python-docx==1.1.0          # Word文档解析（可选）
+unstructured==0.11.0        # 非结构化文档解析
+tiktoken==0.5.2             # Token计数器，用于精确文本切分
+
+# 向量数据库
+faiss-cpu==1.7.4            # Facebook AI相似性搜索（CPU版本）
+# faiss-gpu==1.7.4          # 如需GPU加速可取消注释此行
+
+# OpenAI SDK（用于调用DeepSeek API）
+openai==1.6.1               # OpenAI Python客户端
+
+# 工具库
+numpy==1.26.2               # 数值计算库
+python-dotenv==1.0.0        # 环境变量管理
+requests==2.31.0            # HTTP请求库
+
+# 异步支持
+asyncio==3.4.3              # 异步IO支持（流式输出需要）
+
+# 开发工具（可选）
+pytest==7.4.3               # 测试框架
+pytest-cov==4.1.0           # 测试覆盖率
+black==23.12.1              # 代码格式化
+flake8==7.0.0               # 代码检查

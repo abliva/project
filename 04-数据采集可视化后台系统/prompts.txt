@@ -1,0 +1,122 @@
+# 文心一言图片生成提示词集
+
+本文件包含用于文心一言AI图片生成的专业提示词，
+适用于数据可视化、监控系统、技术架构等场景的设计需求。
+
+---
+
+## 提示词1：数据监控大屏设计
+
+**中文提示词：**
+```
+设计一个现代化的企业级数据监控大屏界面，深蓝色科技风格背景，中央显示大型数字仪表盘，周围环绕多个动态数据卡片展示关键KPI指标，使用发光线条连接各模块，底部有实时滚动的时间轴，整体呈现未来感的数据中心视觉效果，高分辨率，UI设计，专业商务风格
+```
+
+**英文提示词（备用）：**
+```
+Design a modern enterprise data monitoring dashboard interface, dark blue tech-style background, large digital dashboard in the center surrounded by dynamic data cards showing key KPI metrics, glowing lines connecting modules, real-time scrolling timeline at the bottom, futuristic data center visual effect, high resolution, UI design, professional business style
+```
+
+**适用场景：** 系统首页大屏展示、指挥中心监控墙、实时数据看板
+
+---
+
+## 提示词2：实时数据折线图
+
+**中文提示词：**
+```
+生成一张精美的实时数据趋势折线图，渐变色填充区域，多组数据对比曲线（成功/失败/总数），带有平滑动画效果，坐标轴清晰标注，图例位于右上角，鼠标悬停显示详细数据的Tooltip提示框，现代扁平化设计风格，适合嵌入Web页面，白色背景，高清输出
+```
+
+**英文提示词（备用）：**
+```
+Generate a beautiful real-time data trend line chart with gradient color fill areas, multiple comparison curves (success/failure/total), smooth animation effects, clearly labeled axes, legend in top right corner, tooltip showing detailed data on hover, modern flat design style suitable for web embedding, white background, high definition output
+```
+
+**适用场景：** 采集趋势分析、性能监控图表、业务增长曲线展示
+
+---
+
+## 提示词3：爬虫系统架构图
+
+**中文提示词：**
+```
+绘制一个专业的网络爬虫系统技术架构图，采用分层架构设计，从上到下依次为：用户管理层（Web界面/API）、调度层（任务队列/APScheduler）、执行层（多线程爬虫池）、处理层（数据清洗/LRU缓存）、存储层（MySQL数据库/Elasticsearch），各层之间用箭头和数据流标识连接，使用不同颜色区分模块，左侧添加图标说明，右侧标注技术栈标签，简洁清晰的科技蓝配色方案，架构图风格
+```
+
+**英文提示词（备用）：**
+```
+Draw a professional web crawler system technical architecture diagram using layered design, from top to bottom: User Management Layer (Web Interface/API), Scheduling Layer (Task Queue/APScheduler), Execution Layer (Multi-threaded Crawler Pool), Processing Layer (Data Cleaning/LRU Cache), Storage Layer (MySQL Database/Elasticsearch), connect layers with arrows and data flow labels, use different colors for modules, icon legend on left side, tech stack labels on right side, clean and clear tech blue color scheme, architecture diagram style
+```
+
+**适用场景：** 技术文档配图、系统介绍PPT、架构评审会议
+
+---
+
+## 提示词4：数据可视化仪表盘
+
+**中文提示词：**
+```
+创建一个综合数据可视化仪表盘界面，采用暗色主题（深灰/黑色背景），包含四个主要区域：左上角环形进度图显示完成率，右上角柱状图对比各分类数据量，下方大面积面积图展示时间序列趋势，右侧竖向排列的小型指标卡（带迷你Sparkline图），使用霓虹色彩强调重点数据（青色/品红/金黄），玻璃拟态(Glassmorphism)效果的半透明卡片，科技感十足的大屏展示效果
+```
+
+**英文提示词（备用）：**
+```
+Create a comprehensive data visualization dashboard interface with dark theme (dark gray/black background), containing four main areas: top-left ring progress chart showing completion rate, top-right bar chart comparing category data volumes, large area chart below showing time series trends, vertically arranged small metric cards on the right (with mini Sparkline charts), neon colors emphasizing key data (cyan/magenta/gold), glassmorphism effect semi-transparent cards, high-tech large screen display effect
+```
+
+**适用场景：** 运营分析后台、BI报表系统、决策支持平台
+
+---
+
+## 提示词5：多维度数据分析图表
+
+**中文提示词：**
+```
+设计一组多维度的数据分析图表组合，包含：雷达图展示五维能力评估（性能/稳定性/可扩展性/安全性/易用性）、堆叠柱状图显示按类别和时间双维度的数据分布、南丁格尔玫瑰图表现占比关系、散点矩阵图揭示变量相关性，所有图表统一使用柔和的莫兰迪色系配色，干净整洁的白底布局，每个图表配有标题和简短说明文字，学术研究报告风格的专业排版
+```
+
+**英文提示词（备用）：**
+```
+Design a set of multi-dimensional data analysis chart combinations including: radar chart showing five-dimensional capability assessment (performance/scalability/security/usability/stability), stacked bar chart displaying dual-dimension distribution by category and time, Nightingale rose chart showing proportion relationships, scatter plot matrix revealing variable correlations, all charts using unified soft Morandi color palette, clean white background layout, each chart with title and brief description text, professional layout in academic research report style
+```
+
+**适用场景：** 深度数据分析报告、学术论文插图、综合评估报告
+
+---
+
+## 提示词6（额外）：LRU缓存机制示意图
+
+**中文提示词：**
+```
+绘制一个LRU（最近最少使用）缓存算法的工作原理示意图，使用双向链表结构展示缓存项的排列顺序，最新访问的节点在头部（用绿色高亮），最久未使用的节点在尾部（用红色标记），哈希表通过虚线指向链表节点实现O(1)查找，当容量满时尾部节点被淘汰的过程用动画箭头表示，旁边添加代码片段样式的伪代码注释，教育性的信息图(infographic)风格，浅蓝色背景
+```
+
+**适用场景：** 技术博客配图、算法教学材料、面试准备资料
+
+---
+
+## 使用建议
+
+### 最佳实践：
+1. **场景适配**：根据实际应用场景选择合适的提示词模板
+2. **细节调整**：可在提示词中添加具体业务领域关键词（如"电商"、"金融"、"医疗"）
+3. **风格统一**：同一项目中的图片应保持一致的视觉风格和配色方案
+4. **尺寸要求**：明确指定输出分辨率（如"1920x1080"、"4K超清"）
+5. **迭代优化**：首次生成后可根据效果微调提示词细节
+
+### 组合使用：
+- 可将多个提示词元素组合，例如："数据监控大屏" + "实时折线图"
+- 在提示词末尾添加质量修饰词："高质量"、"专业级"、"获奖作品水准"
+
+### 注意事项：
+- 文心一言对中文提示词的理解更准确，建议优先使用中文
+- 复杂场景建议分步骤生成，先整体后局部
+- 生成的图片需注意版权和使用授权问题
+
+---
+
+**版本**: v1.0  
+**更新日期**: 2024-01  
+**适用模型**: 文心一言 (ERNIE Bot) 图片生成功能  
+**作者**: 数据采集可视化项目组

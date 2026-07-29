@@ -1,0 +1,25 @@
+# 基金智能分析决策 Agent 系统 - 依赖包
+# Python >= 3.8
+
+# 数据获取
+akshare>=1.12.0
+
+# 数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+
+# HTTP请求（用于新闻抓取）
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# LLM集成（可选）
+openai>=1.0.0
+
+# 配置管理
+python-dotenv>=1.0.0
+
+# 日志
+loguru>=0.7.0
+
+# 类型检查（开发用）
+typing-extensions>=4.5.0
